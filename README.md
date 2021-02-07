@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I work full time as a backend software engineer at [Touchplan](https://touchplan.io), and I'm simultaneously attending my last semester at MIT working towards my BS in Computer Science.
+<!-- ## Hi there 👋 -->
 
 ### Computer Science Niche 🔍
 
